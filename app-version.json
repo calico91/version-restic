@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.7",
-  "minRequiredVersion": "2.0.7",
+  "latestVersion": "2.0.8",
+  "minRequiredVersion": "2.0.8",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.restic.app",
   "iosStoreUrl": "",
   "message": "Hay una nueva versión disponible de Restic. Por favor actualice la aplicación para continuar."
